@@ -1,0 +1,21 @@
+# Java compilation output
+out/
+*.class
+*.jar
+staging/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# JPackage output
+SmartEPark_App/
+SmartEPark_Installer/
+
+# Local data / Database
+data/
+
+# Mac / Windows temp files
+.DS_Store
+Thumbs.db

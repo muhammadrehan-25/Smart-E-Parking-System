@@ -1,6 +1,6 @@
-# ParkNova - Smart E-Parking System 🚗🚙
+# ParkNova 🚗🚙
 
-**ParkNova (Smart ePark)** is a professional, enterprise-grade Parking Management System built with **Java (Swing/AWT)**. It features a modern, responsive UI with real-time analytics, automated check-in/check-out workflows, PDF receipt generation, and a fully standalone SQLite database.
+**ParkNova (Smart E-Parking System)** is a professional, enterprise-grade Parking Management System built with **Java (Swing/AWT)**. It features a modern, responsive UI with real-time analytics, automated check-in/check-out workflows, PDF receipt generation, and a fully standalone SQLite database.
 
 ## 🌟 Key Features
 

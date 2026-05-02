@@ -25,7 +25,7 @@
 ## 📁 Project Structure
 
 ```text
-SmartEPark_Final/
+SmartEParking/
 ├── src/                # Java source code (UI, DAO, Utils, Models)
 ├── lib/                # Dependencies (SQLite, SLF4J)
 ├── resources/          # Icons, logos, and UI assets

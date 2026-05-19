@@ -1,5 +1,4 @@
 package ui;
-
 import dao.BookingDAO;
 import model.*;
 import util.FileManager;
@@ -157,7 +156,7 @@ public class AdminDashboard extends JFrame {
         clockPanel.setOpaque(false);
         clockPanel.add(clockLbl, BorderLayout.CENTER);
         
-        weatherLabel = Theme.label("Sunny, 32°C | Islamabad", new Font("Segoe UI", Font.BOLD, 13), new Color(0x94A3B8));
+        weatherLabel = Theme.label("Sunny, 39°C | Karachi", new Font("Segoe UI", Font.BOLD, 13), new Color(0x94A3B8));
         clockPanel.add(weatherLabel, BorderLayout.SOUTH);
 
         notificationBadge = Theme.label("0 Alerts", new Font("Segoe UI", Font.BOLD, 10), Color.WHITE);

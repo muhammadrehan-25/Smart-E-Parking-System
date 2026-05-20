@@ -22,7 +22,6 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Screenshots](#-screenshots)
 - [Key Features](#-key-features)
 - [Technology Stack](#-technology-stack)
 - [Prerequisites](#-prerequisites)
@@ -43,16 +42,6 @@
 ## 🌐 Overview
 
 ParkNova is a professional, enterprise-grade Smart Parking Management System designed for real-world parking facilities. It handles the full lifecycle of vehicle parking — from entry to exit — with automated slot assignment, PDF receipt generation, and visual analytics. Everything runs locally with zero external dependencies at runtime.
-
----
-
-## 📸 Screenshots
-
-> ℹ️ Screenshots will be added in the next release. Run the application to see the live UI.
-
-| Dashboard | Check-In | Check-Out | Analytics |
-|-----------|----------|-----------|-----------|
-| *(Coming Soon)* | *(Coming Soon)* | *(Coming Soon)* | *(Coming Soon)* |
 
 ---
 
@@ -296,8 +285,8 @@ See the [LICENSE](LICENSE) file for full details.
 
 **Muhammad Rehan**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Rehan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-rehan-kamboh-1657a9381)
+[![Email](https://img.shields.io/badge/Email-engrehan21@gmail.com-red?style=flat-square&logo=gmail)](mailto:engrehan21@gmail.com)
 
 > *If this project helped you, consider giving it a ⭐ on GitHub!*
 

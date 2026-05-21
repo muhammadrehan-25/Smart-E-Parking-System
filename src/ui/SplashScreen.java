@@ -5,10 +5,6 @@ import java.awt.*;
 import java.awt.geom.*;
 import util.Theme;
 
-/**
- * Redesigned High-Tech Splash Screen matching the futuristic design.
- * Features circuit-pattern background, corner brackets, and a glowing central shield logo.
- */
 public class SplashScreen extends JWindow {
     private JProgressBar progress;
     private int pct = 0;

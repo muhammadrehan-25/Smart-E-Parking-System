@@ -448,7 +448,7 @@ public class ManageUsersPanel extends JPanel {
         }
     }
 
-    // ── Deactivate User ────────────────────────────────────────
+    // ── Deactivate User ─────────────────────
     private void deactivateSelectedUser() {
         int row = table.getSelectedRow();
         if (row == -1) {

@@ -1,12 +1,9 @@
 package dao;
-
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
 public class LogDAO {
     private final Connection conn;
-
     public LogDAO() {
         this.conn = DatabaseManager.getInstance().getConnection();
         createTableIfNotExists();

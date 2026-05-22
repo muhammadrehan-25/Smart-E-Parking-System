@@ -1,9 +1,7 @@
 package dao;
-
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
 /** Data Access Object for vehicle operations. */
 public class VehicleDAO {
     private final Connection conn;
@@ -24,7 +22,6 @@ public class VehicleDAO {
             return false;
         }
     }
-
     public int getIdByPlate(String plate) {
         String sql = "SELECT vehicle_id FROM vehicles WHERE license_plate=?";
         try (PreparedStatement ps = conn.prepareStatement(sql)) {

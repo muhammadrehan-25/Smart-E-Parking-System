@@ -8,7 +8,6 @@ public class LogDAO {
         this.conn = DatabaseManager.getInstance().getConnection();
         createTableIfNotExists();
     }
-
     private void createTableIfNotExists() {
         String sql = "CREATE TABLE IF NOT EXISTS system_logs (" +
                      "log_id INTEGER PRIMARY KEY AUTOINCREMENT, " +
@@ -36,7 +35,6 @@ public class LogDAO {
             System.err.println("Log error: " + e.getMessage());
         }
     }
-
     public List<String[]> getAllLogs() {
         List<String[]> logs = new ArrayList<>();
         String sql = "SELECT * FROM system_logs ORDER BY timestamp DESC LIMIT 100";
